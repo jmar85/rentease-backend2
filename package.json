@@ -1,0 +1,13 @@
+{
+  "name": "rentease-backend",
+  "version": "1.0.0",
+  "description": "Backend for RentEase property management app",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "@supabase/supabase-js": "^2.0.0"
+  }
+}
